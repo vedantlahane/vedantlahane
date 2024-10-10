@@ -16,7 +16,7 @@
 
 ### 📫 How to reach me:
 - GitHub: [vedantlahane](https://github.com/vedantlahane)
-- Email: [vedantanillahane@gmail.com](mailto:vedantanillahane@gmail.com)
+- Email: [vedantanillahane@gmail.com](vedantanillahane@gmail.com)
 
 Happy Coding! 🚀
 
