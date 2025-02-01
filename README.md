@@ -15,7 +15,7 @@
 - 😄 I love solving **logic puzzles** and **coding challenges**—bring them on.
 
 ### 📫 How to reach me:
-- LinkedIn: [vedantlahane]((https://www.linkedin.com/in/vedant-lahane))
+- LinkedIn: [vedantlahane](https://www.linkedin.com/in/vedant-lahane)
 - Email: [vedantanillahane@gmail.com](vedantanillahane@gmail.com)
 
 Happy Coding! 🚀
