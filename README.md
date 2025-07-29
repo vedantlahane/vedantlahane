@@ -22,7 +22,7 @@ I'm continuously expanding my skillset, with a current focus on:
 
     ☁️ Advanced cloud DevOps concepts
 
-    🧩 Frameworks like LangChain, Ethers.js, and Solidity
+    🧩 Frameworks like LangChain, Web3.js, and Solidity
 
 I'm also proficient in MERN (MongoDB, Express.js, React, Node.js) and MEAN (MongoDB, Express.js, AngularJS, Node.js) stacks.
 🤝 Let's Connect & Collaborate
